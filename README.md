@@ -1,5 +1,6 @@
 <h1 align="center">Imobiliária Santos</h1>
 <h2 align="center">:page_facing_up: Descrição do projeto</h2>
+<p>Projeto elaborado na plataforma da Devmedia, a página web de uma imobiliária desenvolvida em html e css.</p>
 <br>
 
 ## :desktop_computer: Desktop design
