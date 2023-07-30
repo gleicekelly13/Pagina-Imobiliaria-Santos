@@ -54,12 +54,13 @@ span {
 
 h1 {
     color: #1d1d1d;
-    margin-bottom: 5px;
+    margin-bottom: 10px;
 }
 
 #sobre h2 {
     color: #1c81c0;
     font-weight: normal;
+    padding-bottom: 15px;
 }
 
 #sobre img {
@@ -106,6 +107,7 @@ h1 {
 #corretores h2{
     color: #1c81c0;
     font-weight: bold;
+    padding-bottom: 15px;
 }
 
 #corretores img {
